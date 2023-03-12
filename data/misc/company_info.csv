@@ -1,0 +1,63 @@
+stock_code,sector,sub_sector
+BDO,Financials,Banks
+BPI,Financials,Banks
+MBT,Financials,Banks
+UBP,Financials,Banks
+SECB,Financials,Banks
+AUB,Financials,Banks
+AC,Holding Firms,Holding Firms
+SMC,Holding Firms,Holding Firms
+TFHI,Holding Firms,Holding Firms
+DMC,Holding Firms,Holding Firms
+SM,Holding Firms,Holding Firms
+JGS,Holding Firms,Holding Firms
+AEV,Holding Firms,Holding Firms
+MPI,Holding Firms,Holding Firms
+PCOR,Industrial,"Electricity, Energy, Power & Water"
+ACEN,Industrial,"Electricity, Energy, Power & Water"
+AP,Industrial,"Electricity, Energy, Power & Water"
+FPH,Industrial,"Electricity, Energy, Power & Water"
+FGEN,Industrial,"Electricity, Energy, Power & Water"
+MER,Industrial,"Electricity, Energy, Power & Water"
+MWC,Industrial,"Electricity, Energy, Power & Water"
+JFC,Industrial,"Food, Beverage & Tobacco"
+MAXS,Industrial,"Food, Beverage & Tobacco"
+PIZZA,Industrial,"Food, Beverage & Tobacco"
+FCG,Industrial,"Food, Beverage & Tobacco"
+MONDE,Industrial,"Food, Beverage & Tobacco"
+URC,Industrial,"Food, Beverage & Tobacco"
+DELM,Industrial,"Food, Beverage & Tobacco"
+FB,Industrial,"Food, Beverage & Tobacco"
+EMI,Industrial,"Food, Beverage & Tobacco"
+GSMI,Industrial,"Food, Beverage & Tobacco"
+SCC,Mining and Oil,Mining
+FNI,Mining and Oil,Mining
+PX,Mining and Oil,Mining
+APX,Mining and Oil,Mining
+NIKL,Mining and Oil,Mining
+SMPH,Property,Property
+HVN,Property,Property
+ALI,Property,Property
+MEG,Property,Property
+RLC,Property,Property
+STR,Property,Property
+TBGI,Services,Information Technology
+CNVRG,Services,Information Technology
+NOW,Services,Information Technology
+DITO,Services,Information Technology
+GMA7,Services,Media
+MBC,Services,Media
+ABS,Services,Media
+MB,Services,Media
+RRHI,Services,Retail
+SEVN,Services,Retail
+PGOLD,Services,Retail
+MRSGI,Services,Retail
+TEL,Services,Telecommunications
+GLO,Services,Telecommunications
+CEB,Services,Transportation Services
+PAL,Services,Transportation Services
+2GO,Services,Transportation Services
+C,Services,Transportation Services
+ICT,Services,Transportation Services
+ATI,Services,Transportation Services
